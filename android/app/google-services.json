@@ -1,13 +1,13 @@
 {
   "project_info": {
     "project_number": "337473460836",
-    "project_id": "dp-project-66f1f",
-    "storage_bucket": "dp-project-66f1f.firebasestorage.app"
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:337473460836:android:76fb732c69313790a81d71",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.project"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBnpbxDV8TEnjCMTW9Aon6n9s2geJo8sX8"
+          "current_key": ""
         }
       ],
       "services": {
